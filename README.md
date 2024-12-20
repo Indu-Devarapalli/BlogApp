@@ -20,13 +20,36 @@ This app is powered by Firebase for user authentication and data storage.
 
 ## Project Structure
 SocialBlogApp/
-│
 ├── src/
 │   ├── Screens/        # All app screens
 │   ├── Images/         # Image assets
 │   ├── AppNavigator/   # Navigation configurations
-│
 ├── ios/                # iOS specific files
 ├── android/            # Android specific files
 ├── package.json        # Project dependencies and scripts
 └── README.md           # Project Documentation
+
+## Installation
+1. Clone the Repository
+bash
+Copy code
+git clone https://github.com/Indu-Devarapalli/BlogApp.git
+
+3. Install Dependencies
+bash
+Copy code
+#Using npm
+npm install
+#Or 
+bash
+Copy code
+#Using yarn
+yarn install
+
+3. Install iOS Dependencies
+bash
+Copy code
+cd ios
+pod install
+cd ..
+
