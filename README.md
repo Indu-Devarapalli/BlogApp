@@ -45,7 +45,7 @@ yarn install
 cd ios
 pod install
 cd ..
-
+```
 ## Running the App
 1. Start Metro Bundler
 ```bash
@@ -72,9 +72,9 @@ npx react-native run-ios
   * User profile creation and updates.
 * Blog Creation and Uploading
 
-Upload pictures from the camera or gallery to your blog posts.
-Write content along with images for each post.
-Create, edit, and delete blog posts.
+  * Upload pictures from the camera or gallery to your blog posts.
+  * Write content along with images for each post.
+
 Viewing Past Posts
 
 View all previously uploaded blogs in a timeline format.
