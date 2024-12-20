@@ -46,3 +46,44 @@ cd ios
 pod install
 cd ..
 
+## Running the App
+1. Start Metro Bundler
+```bash
+yarn start
+#or
+npm start
+```
+2. Run on Android
+```bash
+yarn 
+#or
+npx react-native run-android
+```
+3. Run on iOS
+```bash
+yarn ios
+#or
+npx react-native run-ios
+```
+## App Features
+* User Authentication
+
+  * Easy login and sign-up using Firebase Authentication.
+  * User profile creation and updates.
+* Blog Creation and Uploading
+
+Upload pictures from the camera or gallery to your blog posts.
+Write content along with images for each post.
+Create, edit, and delete blog posts.
+Viewing Past Posts
+
+View all previously uploaded blogs in a timeline format.
+Edit and update content for old blog posts.
+Firebase Integration
+
+Firebase is used for user authentication, storing user data, and uploading blog posts.
+All blog data is stored in Firebase Realtime Database for seamless updates.
+Profile Management
+
+Users can update their profiles, including pictures and bio information.
+Store and manage personal blog data with ease.
