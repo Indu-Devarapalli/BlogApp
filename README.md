@@ -81,3 +81,4 @@ npx react-native run-ios
  * All blog data is stored in Firebase Realtime Database for seamless updates.
 
 ## Demo Video
+https://github.com/user-attachments/assets/c388dfc3-4d19-43f8-8ed6-ed560634a26a
