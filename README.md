@@ -10,3 +10,10 @@ This app is powered by Firebase for user authentication and data storage.
 * TypeScript – For static typing and enhanced code quality
 * React Native Image Picker – For uploading images from the gallery or camera
 * React Native UUID – For generating unique identifiers for blog posts and images
+
+## Prerequisites
+* Node.js
+* React Native CLI 
+* Xcode (for iOS development) 
+* CocoaPods (for iOS dependencies) 
+* Android Studio (for Android development) 
