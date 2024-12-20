@@ -79,3 +79,5 @@ npx react-native run-ios
 ### Firebase Integration
  * Firebase is used for user authentication, storing user data, and uploading blog posts.
  * All blog data is stored in Firebase Realtime Database for seamless updates.
+
+## Demo Video
