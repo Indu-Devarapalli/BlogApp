@@ -19,6 +19,7 @@ This app is powered by Firebase for user authentication and data storage.
 * Android Studio (for Android development) 
 
 ## Project Structure
+```bash
 SocialBlogApp/
 ├── src/
 │   ├── Screens/        # All app screens
@@ -28,7 +29,7 @@ SocialBlogApp/
 ├── android/            # Android specific files
 ├── package.json        # Project dependencies and scripts
 └── README.md           # Project Documentation
-
+```
 ## Installation
 1. Clone the Repository
 ```bash
@@ -70,18 +71,11 @@ npx react-native run-ios
  * Easy login and sign-up using Firebase Authentication.
  * User profile creation and updates.
  ### Blog Creation and Uploading
-
-  * Upload pictures from the camera or gallery to your blog posts.
-  * Write content along with images for each post.
-* Viewing Past Posts
-
-  * View all previously uploaded blogs.
-  * Edit and update profile.
-* Firebase Integration
-
-Firebase is used for user authentication, storing user data, and uploading blog posts.
-All blog data is stored in Firebase Realtime Database for seamless updates.
-Profile Management
-
-Users can update their profiles, including pictures and bio information.
-Store and manage personal blog data with ease.
+ * Upload pictures from the camera or gallery to your blog posts.
+ * Write content along with images for each post.
+### Viewing Past Posts
+ * View all previously uploaded blogs.
+ * Edit and update profile.
+### Firebase Integration
+ * Firebase is used for user authentication, storing user data, and uploading blog posts.
+ * All blog data is stored in Firebase Realtime Database for seamless updates.
