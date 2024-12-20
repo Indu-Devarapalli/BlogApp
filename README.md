@@ -4,7 +4,7 @@ SocialBlogApp is a simple and user-friendly mobile app built with React Native. 
 This app is powered by Firebase for user authentication and data storage.
 
 ## Technologies Used
->React Native – For building cross-platform mobile apps (iOS & Android)
+*React Native – For building cross-platform mobile apps (iOS & Android)
 >React Navigation – For handling app navigation
 >Firebase – For user authentication, blog storage, and real-time database
 >TypeScript – For static typing and enhanced code quality
