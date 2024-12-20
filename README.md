@@ -66,20 +66,18 @@ yarn ios
 npx react-native run-ios
 ```
 ## App Features
-* User Authentication
-
-  * Easy login and sign-up using Firebase Authentication.
-  * User profile creation and updates.
-* Blog Creation and Uploading
+### User Authentication
+ * Easy login and sign-up using Firebase Authentication.
+ * User profile creation and updates.
+ ### Blog Creation and Uploading
 
   * Upload pictures from the camera or gallery to your blog posts.
   * Write content along with images for each post.
+* Viewing Past Posts
 
-Viewing Past Posts
-
-View all previously uploaded blogs in a timeline format.
-Edit and update content for old blog posts.
-Firebase Integration
+  * View all previously uploaded blogs.
+  * Edit and update profile.
+* Firebase Integration
 
 Firebase is used for user authentication, storing user data, and uploading blog posts.
 All blog data is stored in Firebase Realtime Database for seamless updates.
