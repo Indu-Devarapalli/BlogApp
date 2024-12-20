@@ -17,3 +17,16 @@ This app is powered by Firebase for user authentication and data storage.
 * Xcode (for iOS development) 
 * CocoaPods (for iOS dependencies) 
 * Android Studio (for Android development) 
+
+## Project Structure
+SocialBlogApp/
+│
+├── src/
+│   ├── Screens/        # All app screens
+│   ├── Images/         # Image assets
+│   ├── AppNavigator/   # Navigation configurations
+│
+├── ios/                # iOS specific files
+├── android/            # Android specific files
+├── package.json        # Project dependencies and scripts
+└── README.md           # Project Documentation
