@@ -31,11 +31,10 @@ SocialBlogApp/
 
 ## Installation
 1. Clone the Repository
-bash
-Copy code
+```bash
 git clone https://github.com/Indu-Devarapalli/BlogApp.git
 
-3. Install Dependencies
+2. Install Dependencies
 ```bash
 npm install
 #Or 
