@@ -37,18 +37,12 @@ git clone https://github.com/Indu-Devarapalli/BlogApp.git
 
 3. Install Dependencies
 ```bash
-Copy code
-#Using npm
 npm install
 #Or 
-```bash
-Copy code
-#Using yarn
 yarn install
 
 3. Install iOS Dependencies
 ```bash
-Copy code
 cd ios
 pod install
 cd ..
