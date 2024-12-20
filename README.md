@@ -33,6 +33,7 @@ SocialBlogApp/
 1. Clone the Repository
 ```bash
 git clone https://github.com/Indu-Devarapalli/BlogApp.git
+```bash
 
 2. Install Dependencies
 ```bash
